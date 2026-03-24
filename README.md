@@ -83,6 +83,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-sami-dev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ###
+
+<img src="https://raw.githubusercontent.com/m-sami-dev/m-sami-dev/output/snake.svg" alt="Snake animation" />
+
+###
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/m-sami-dev/m-sami-dev/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/m-sami-dev/m-sami-dev/output/pacman-contribution-graph.svg">
