@@ -98,15 +98,6 @@
 ###
 
 
-
-
-## 📊 GitHub Stats
-
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sami-dev&show_icons=true&theme=radical)
-
----
-
-
 ## ⚡ Fun Fact
 I love solving coding problems and building real-world applications 🚀
 
