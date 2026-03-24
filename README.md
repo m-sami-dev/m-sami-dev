@@ -98,62 +98,14 @@
 ###
 
 
-<h1 align="center">Hey 👋, I'm Muhammad Sami</h1>
-<h3 align="center">J. Backend Developer 👨‍💻⚙️</h3>
 
----
-
-## 👨‍💻 Who Am I
-💻 Passionate backend developer focused on building scalable web applications  
-🌐 Working with Python 🐍 & Django 🚀  
-🗄️ Love working with databases and clean architecture  
-⚡ Turning ideas into real-world projects  
-
----
-
-## ⚙️ Tech Stack
-
-| Category        | Technologies |
-|----------------|-------------|
-| 💻 Languages   | Python 🐍, JavaScript ⚡ |
-| 🌐 Frameworks  | Django 🚀 |
-| 🗄️ Databases  | MySQL, SQLite |
-| ⚙️ Tools       | Git, GitHub, VS Code |
-| 🐧 Learning    | Linux |
-
----
-
-## 🛠️ Skills Badges
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ## 📊 GitHub Stats
 
-![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Sami's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-sami-dev&show_icons=true&theme=radical)
 
 ---
 
-## 🔗 Let’s Connect
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
 
 ## ⚡ Fun Fact
 I love solving coding problems and building real-world applications 🚀
