@@ -91,13 +91,14 @@
 
 ### -->
 
+
+## ⚡ Fun Fact
+I love solving coding problems and building real-world applications 🚀
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=m-sami-dev.m-sami-dev&"  />
 </div>
 
 ###
 
-
-## ⚡ Fun Fact
-I love solving coding problems and building real-world applications 🚀
 
