@@ -116,7 +116,7 @@ I enjoy building high-performance web applications using Python, Django, and mod
 ---
 
 ## 🚀 Featured Project
-* ⚡ **[ApplianceConversion.com](https://applianceconversion.com)** - A specialized web platform designed for accurate appliance unit conversions and technical calculations. Built with optimization and programmatic E-E-A-T structures.
+* ⚡ **[ApplianceConversion.com](https://applianceconversion.com)** - A kitchen appliance conversion toolset that converts cooking times and temperatures between appliances (oven ↔ air fryer, slow cooker ↔ Instant Pot, and more). Built for speed, accuracy, and clean client-side performance.
 
 ---
 
