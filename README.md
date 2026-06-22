@@ -1,3 +1,4 @@
+<!--
 <h1 align="center">Hey 👋, I'm Muhammad Sami</h1>
 
 ###
@@ -91,7 +92,7 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/m-sami-dev/m-sami-dev/output/pacman-contribution-graph.svg">
 </picture>
 
-### -->
+### -s->
 
 
 ## ⚡ Fun Fact
@@ -101,6 +102,77 @@ I love solving coding problems and building real-world applications 🚀
   <img src="https://visitor-badge.laobi.icu/badge?page_id=m-sami-dev.m-sami-dev&"  />
 </div>
 
-###
+### --> 
+
+
+
+# Hey 👋, I'm Muhammad Sami
+
+## 👤 Who Am I
+
+I'm a full-stack developer with a strong interest in backend development and scalable systems.
+I enjoy building high-performance web applications using Python, Django, and modern web technologies.
+
+---
+
+## 🚀 Featured Project
+* ⚡ **[ApplianceConversion.com](https://applianceconversion.com)** - A specialized web platform designed for accurate appliance unit conversions and technical calculations. Built with optimization and programmatic E-E-A-T structures.
+
+---
+
+## 🔗 Let's Connect
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="30">](https://linkedin.com/in/muhammadsami7264)
+[<img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" height="30">](https://facebook.com/ch.sami.129794)
+[<img src="https://img.shields.io/badge/Appliance_Conversion-%23FF5500.svg?style=for-the-badge&logo=googlechrome&logoColor=white" height="30">](https://applianceconversion.com)
+[<img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" height="30">](mailto:choudharysami7264@gmail.com)
+
+---
+
+## 💡 Inside My World
+
+* 💻 I'm currently working on Django-based web applications and improving backend systems.
+* 🤝 I'm looking to collaborate on real-world projects related to web development.
+* 🧠 I'm looking for help with advanced Django, APIs, and system design.
+* 📚 I'm currently learning Django, REST APIs, and database optimisation.
+* 💬 Ask me about Python, Django, and backend development.
+* ⚡ Fun fact: I love solving coding problems and turning ideas into real applications 🚀
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>&nbsp;
+<img src="https://theme.zdassets.com/theme_assets/9303120/1908b98b95880f769013ef1ffbf5f34cf330fc94.png" alt="github" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-plain.svg" alt="wordpress" width="40" height="40"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=m-sami-dev&show_icons=true&theme=dark" alt="Sami's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sami-dev&layout=compact&theme=dark" alt="Top Langs" />
+</p>
+
+---
+
+✨ *I love solving coding problems and building real-world applications 🚀*
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=m-sami-dev&label=Profile%20views&color=0e75b6&style=flat" alt="m-sami-dev" />
+</p>
 
 
